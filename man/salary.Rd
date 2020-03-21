@@ -15,7 +15,7 @@ Simple model with two predictor \code{Age} (value between 18 and 60) and
 }
 \examples{
 mydata <- data.frame(
-   Age=c(24, 54),
+   Age=c(24, 50),
    Gender=c("Male", "Female")
 )
 salary(mydata)
