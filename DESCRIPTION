@@ -1,0 +1,16 @@
+Package: salaryscore
+Type: Package
+Title: Predict salary
+Version: 0.1
+Authors@R: person(given = "Jeroen", family = "Ooms", role = c("aut"))
+           person(given = "Wei", family = "Wu", 
+                  email = "wei.wu@lincresearch.com", role = c("cre","ctb"))
+Maintainer: Wei Wu <yourself@somewhere.net>
+Description: This package forecaste the salary of an individul based on gender and age.
+License:  Apache License 2.0
+Encoding: UTF-8
+LazyData: false
+Depends: R (>= 3.5.0)
+Imports: mgcv
+RoxygenNote: 7.1.0
+
